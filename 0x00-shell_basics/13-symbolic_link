@@ -1,0 +1,2 @@
+i#!/bin/ls
+ln -s /bin/ls_ls_
